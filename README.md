@@ -8,4 +8,4 @@ penambahan
 
 penambahan pada branch test
 
-bikin konflik branch di master
+bikin konflik branch test
